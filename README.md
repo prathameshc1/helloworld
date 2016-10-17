@@ -1,6 +1,6 @@
 # helloworld
-hi this is thor
-son of odin
-god of thunder
-brother of loki
-i am an avenger
+Hi this is thor.
+Son of odin.
+God of thunder.
+Brother of loki.
+I am an avenger.
